@@ -1,0 +1,3 @@
+# MPL-5 Main Sample (Primary, Secondary, and Color Enhanced galaxies)
+# source paths    destination paths
+redux/v2_0_1/8615/stack/images/1901.png redux/v2_0_1/8615/stack/images/1901.png

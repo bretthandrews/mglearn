@@ -1,0 +1,3 @@
+# MPL-5 Main Sample (Primary, Secondary, and Color Enhanced galaxies)
+# source paths    destination paths
+analysis/v2_0_1/2.0.2/SPX-GAU-MILESHC/8615/1901/manga-8615-1901-MAPS-SPX-GAU-MILESHC.fits.gz analysis/v2_0_1/2.0.2/SPX-GAU-MILESHC/8615/1901/manga-8615-1901-MAPS-SPX-GAU-MILESHC.fits.gz
